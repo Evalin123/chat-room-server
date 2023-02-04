@@ -11,6 +11,7 @@ Project is created with:
 * [cors](https://www.npmjs.com/package/cors)
 
 ## Setup
+To run this project, install it locally using npm:
 
 ```
 $npm install
